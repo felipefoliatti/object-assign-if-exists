@@ -1,0 +1,29 @@
+{
+  "name": "assign-if-not-exists",
+  "version": "0.0.1",
+  "description": "assign if not exists",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://https://github.com/felipefoliatti/object-assign-if-exists.git"
+  },
+  "keywords": [
+    "assign",
+    "exists"
+  ],
+  "author": "Felipe Foliatti <felipe.foliatti@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felipefoliatti/object-assign-if-exists/issues"
+  },
+  "homepage": "https://github.com/felipefoliatti/object-assign-if-exists#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  }
+}
